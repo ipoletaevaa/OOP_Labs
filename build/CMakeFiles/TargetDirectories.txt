@@ -1,0 +1,4 @@
+/home/ipoletaevaa/project/cpp/C++/lab4/build/CMakeFiles/main.dir
+/home/ipoletaevaa/project/cpp/C++/lab4/build/CMakeFiles/tests.dir
+/home/ipoletaevaa/project/cpp/C++/lab4/build/CMakeFiles/edit_cache.dir
+/home/ipoletaevaa/project/cpp/C++/lab4/build/CMakeFiles/rebuild_cache.dir
