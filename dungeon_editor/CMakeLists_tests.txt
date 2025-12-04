@@ -1,0 +1,23 @@
+cmake_minimum_required(VERSION 3.10)
+project(DungeonEditorTests)
+
+set(CMAKE_CXX_STANDARD 17)
+
+include_directories(include)
+
+# Тесты
+find_package(GTest REQUIRED)
+
+add_executable(DungeonEditorTests
+    tests/test_npc.cpp
+    tests/test_factory.cpp
+    tests/test_visitor.cpp
+    tests/test_observer.cpp
+    tests/test_integration.cpp
+    src/npc_types.cpp
+    src/factory.cpp
+    src/visitor.cpp
+    src/observer.cpp
+)
+
+target_link_libraries(DungeonEditorTests GTest::gtest GTest::gtest_main)
