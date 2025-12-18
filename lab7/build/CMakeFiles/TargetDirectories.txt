@@ -1,0 +1,6 @@
+/home/ipoletaevaa/project/cpp/C++/lab7/build/CMakeFiles/DungeonGame.dir
+/home/ipoletaevaa/project/cpp/C++/lab7/build/CMakeFiles/UnitTests.dir
+/home/ipoletaevaa/project/cpp/C++/lab7/build/CMakeFiles/IntegrationTests.dir
+/home/ipoletaevaa/project/cpp/C++/lab7/build/CMakeFiles/test.dir
+/home/ipoletaevaa/project/cpp/C++/lab7/build/CMakeFiles/edit_cache.dir
+/home/ipoletaevaa/project/cpp/C++/lab7/build/CMakeFiles/rebuild_cache.dir

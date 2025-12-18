@@ -1,0 +1,27 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/ipoletaevaa/project/cpp/C++/lab7/main.cpp" "CMakeFiles/DungeonGame.dir/main.cpp.o" "gcc" "CMakeFiles/DungeonGame.dir/main.cpp.o.d"
+  "/home/ipoletaevaa/project/cpp/C++/lab7/src/factory.cpp" "CMakeFiles/DungeonGame.dir/src/factory.cpp.o" "gcc" "CMakeFiles/DungeonGame.dir/src/factory.cpp.o.d"
+  "/home/ipoletaevaa/project/cpp/C++/lab7/src/game.cpp" "CMakeFiles/DungeonGame.dir/src/game.cpp.o" "gcc" "CMakeFiles/DungeonGame.dir/src/game.cpp.o.d"
+  "/home/ipoletaevaa/project/cpp/C++/lab7/src/npc_types.cpp" "CMakeFiles/DungeonGame.dir/src/npc_types.cpp.o" "gcc" "CMakeFiles/DungeonGame.dir/src/npc_types.cpp.o.d"
+  "/home/ipoletaevaa/project/cpp/C++/lab7/src/observer.cpp" "CMakeFiles/DungeonGame.dir/src/observer.cpp.o" "gcc" "CMakeFiles/DungeonGame.dir/src/observer.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
